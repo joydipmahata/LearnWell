@@ -1,5 +1,5 @@
 # LearnWell – ShikshaSetu
-**Explainable AI-Powered Student Early Intervention Platform**
+**Explainable Student Early Intervention Platform**
 
 **Problem Statement:** PS-06 – ShikshaSetu
 
