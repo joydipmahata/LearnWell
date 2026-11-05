@@ -7,7 +7,7 @@
 | Resource | Link |
 |---|---|
 | Demo Video | [Watch here](YOUR_VIDEO_LINK) |
-| Presentation (PPT) | [View here](YOUR_PPT_LINK) |
+| Presentation (PPT) | [View here](https://docs.google.com/presentation/d/1JjOVbHDCAwkQwJGujUgG_zJiveb0zkXL/edit?usp=sharing&ouid=100495293853518116218&rtpof=true&sd=true) |
 | GitHub Repository | [learnwell-shikshasetu](https://github.com/YOUR_USERNAME/learnwell-shikshasetu) |
 
 ## About the Project
