@@ -9,7 +9,7 @@
 ## Project Links
 | Resource | Link |
 |---|---|
-| Demo Video | [Watch here](https://youtu.be/ORtVtcEHqJY?si=df2WCrPYmU7f7mC7) |
+| Demo Video | [Watch here](https://youtu.be/c6gR9C1HXVg?si=crM4EqD94eBaBUX9) |
 | Presentation (PPT) | [View here](https://docs.google.com/presentation/d/1JjOVbHDCAwkQwJGujUgG_zJiveb0zkXL/edit?usp=sharing&ouid=100495293853518116218&rtpof=true&sd=true) |
 | GitHub Repository | [LearnWell](https://github.com/joydipmahata/LearnWell) |
 
@@ -228,8 +228,9 @@ An amber badge appears on teacher and student screens. The 7-second rotating HMA
 ---
 
 ## Project Screenshots
-Add images to a `screenshots/` folder and link them here, for example:
-`![Faculty Dashboard](screenshots/faculty-dashboard.png)`
+ ### Student Dashboard and What-If Calculator
+<img width="1206" height="407" alt="what-if academic simulator" src="https://github.com/user-attachments/assets/505ab3f8-7700-4ccf-82b7-35943eb5d884" />
+
 
 ## Team
 **Team Name:** CodeCraft
@@ -237,5 +238,5 @@ Add images to a `screenshots/` folder and link them here, for example:
 
 ## Hackathon Submission
 Developed for the ShikshaSetu problem statement (PS-06).
-- **Demo Video:** [Watch here](https://youtu.be/ORtVtcEHqJY?si=df2WCrPYmU7f7mC7)
+- **Demo Video:** [Watch here](https://youtu.be/c6gR9C1HXVg?si=crM4EqD94eBaBUX9)
 - **Presentation (PPT):** [View here](https://docs.google.com/presentation/d/1JjOVbHDCAwkQwJGujUgG_zJiveb0zkXL/edit?usp=sharing&ouid=100495293853518116218&rtpof=true&sd=true)
