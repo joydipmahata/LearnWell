@@ -56,7 +56,13 @@ LearnWell uses attendance, assessment and assignment data to calculate a 0–100
 ## Explainable Risk Engine
 The 0–100 weighted score combines five signals:
 
-$$\text{Risk Score} = 0.30 \cdot R_{\text{attLevel}} + 0.20 \cdot R_{\text{attTrend}} + 0.25 \cdot R_{\text{marksLevel}} + 0.15 \cdot R_{\text{marksTrend}} + 0.10 \cdot R_{\text{missed}}$$
+```
+Risk Score = 0.30 × Attendance Level
+           + 0.20 × Attendance Trend
+           + 0.25 × Marks Level
+           + 0.15 × Marks Trend
+           + 0.10 × Missed Submissions
+```
 
 | Signal | Weight | Meaning |
 |---|---|---|
