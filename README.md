@@ -230,6 +230,13 @@ An amber badge appears on teacher and student screens. The 7-second rotating HMA
 ## Project Screenshots
  ### Student Dashboard and What-If Calculator
 <img width="1206" height="407" alt="what-if academic simulator" src="https://github.com/user-attachments/assets/505ab3f8-7700-4ccf-82b7-35943eb5d884" />
+ 
+ ### QR Attendance
+<img width="1503" height="721" alt="QR_attendance" src="https://github.com/user-attachments/assets/804516d2-78dc-45f8-a190-240f753019e7" />
+
+ ### faculty Dashboard
+<img width="1561" height="932" alt="faculty" src="https://github.com/user-attachments/assets/4144a226-f116-461d-a623-908c836e8a19" />
+
 
 
 ## Team
